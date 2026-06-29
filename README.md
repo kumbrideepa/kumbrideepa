@@ -26,7 +26,7 @@
 <tr>
 <td align="center" width="50%" style="border-radius:15px">
 ╔══════════════════════════════╗
-║        🪪 WHO AM I?          ║
+       🪪 WHO AM I?        
 ╠══════════════════════════════╣
 ║  🎓 Name   : Deepa K M       ║
 ║  🏫 Branch : AIML, GM Institute of Technology, Davanagere║
@@ -37,7 +37,7 @@
 </td>
 <td align="center" width="50%">
 ╔══════════════════════════════╗
-║      🎯 WHAT I LOVE?         ║
+     🎯 WHAT I LOVE?        
 ╠══════════════════════════════╣
 ║  💻 : Python, C, HTML, CSS   ║
 
