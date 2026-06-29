@@ -1,136 +1,113 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,100:f5576c&height=200&section=header&text=Deepa%20K%20M&fontSize=55&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=AIML%20Student%20%7C%20Python%20%7C%20AI%20Explorer&descAlignY=55" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=3000&pause=500&color=F093FB&center=true&vCenter=true&width=550&lines=Hello+World!+I'm+Deepa+👋;AIML+Branch+Student+🎓;Python+%26+C+Programmer+💻;AI+%26+ML+Enthusiast+🤖;Open+to+Internships+%26+AI+Projects+🚀)](https://github.com/pavithra656)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=KumbriDeepa%20K%20M&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=✦%20AIML%20Student%20✦%20AI%20Explorer%20✦%20Developer%20✦&descAlignY=58&descSize=16" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Kumbri Deepa&color=f093fb&style=for-the-badge&label=PROFILE+VIEWS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=⚡+Hello+World!+I'm+Deepa+K+M;🧠+AIML+Branch+Student;💻+Python+%7C+C+%7C+HTML+%7C+CSS;🤖+AI+%26+Machine+Learning+Enthusiast;🚀+Open+to+Internships+%26+AI+Projects;✨+Building+the+Future+with+AI)](https://kumbrideepa.github.io/)
+
+<br/>/
+
+<img src="https://komarev.com/ghpvc/?username=KumbriDeepa&color=00f5ff&style=for-the-badge&label=👁️+PROFILE+VIEWS" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/KumbriDeepa?color=00f5ff&style=for-the-badge&logo=github&label=FOLLOWERS" />
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+<div align="center">
 
-🎓 Name     : Deepa K M
+### 🌐 ✦ ABOUT ME ✦
 
-🏫 Branch   : Artificial Intelligence
+</div>
 
-& Machine Learning
-
-📍 Status   : Student & Developer
-
-💡 Passion  : Building AI Solutions
-
-<table align="center">
+<table align="center" border="0" cellpadding="20">
 <tr>
-<td width="50%" valign="top">
+<td align="center" width="50%" style="border-radius:15px">
+╔══════════════════════════════╗
+║        🪪 WHO AM I?          ║
+╠══════════════════════════════╣
+║  🎓 Name   : Deepa K M       ║
+║  🏫 Branch : AIML, GM Institute of Technology, Davanagere║
+║  📍 Status : Student & Dev   ║
+║  💡 Goal   : AI Solutions    ║
+║  🌍 From   : India           ║
+╚══════════════════════════════╝
+</td>
+<td align="center" width="50%">
+╔══════════════════════════════╗
+║      🎯 WHAT I LOVE?         ║
+╠══════════════════════════════╣
+║  💻 : Python, C, HTML, CSS   ║
 
-### 🙋‍♀️ Who am I?
-💻 Languages : Python, C, HTML, CSS
+║  🤖 : AI&ML, Data Structure  ║
 
-🤖 Interests : AI, Machine Learning
+║  🌱 : AI Tools & Frameworks  ║
 
-Data Structures
+║  🤝 : Internships, open to work ║
 
-🌱 Learning  : AI Tools & Frameworks
-
-🤝 Open to   : Internships
-
-AI Projects
-
-Collaborations
+║  🚀 : AI Projects & Collab   ║
+╚══════════════════════════════╝
 </td>
 </tr>
 </table>
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pavithra656&show_icons=true&theme=tokyonight&bg_color=0d0d1a&border_color=f093fb&title_color=f093fb&icon_color=f5576c&text_color=ffffff&border_radius=15" height="165"/>
+### 💎 ✦ GITHUB STATS ✦
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kumbrideepa&show_icons=true&theme=synthwave&bg_color=0d0d2b&border_color=00f5ff&title_color=00f5ff&icon_color=bf5fff&text_color=ffffff&border_radius=20&ring_color=00f5ff" height="170"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pavithra656&layout=compact&theme=tokyonight&bg_color=0d0d1a&border_color=f093fb&title_color=f093fb&text_color=ffffff&border_radius=15" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kumbrideepa&layout=compact&theme=synthwave&bg_color=0d0d2b&border_color=00f5ff&title_color=00f5ff&text_color=ffffff&border_radius=20" height="170"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pavithra656&theme=tokyonight&background=0d0d1a&ring=f093fb&fire=f5576c&currStreakLabel=f093fb&border=f093fb&border_radius=15" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kumbrideepa&theme=synthwave&background=0d0d2b&ring=00f5ff&fire=bf5fff&currStreakLabel=00f5ff&border=00f5ff&border_radius=20&sideLabels=ffffff&dates=aaaaaa" height="170"/>
 
 </div>
 
 ---
 
-## 🛠️ Tech Stack
-
 <div align="center">
 
-### 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🤖 AI and ML Tools
-
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-
-### 🔧 Tools and Platforms
-
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![lovable](https://lovable.dev/dashboard)
-
-</div>
-
----
-
-## 🚀 Projects --Deployed
-
-<div align="center">
-
-| 🏷️ Project | 📝 Description | 🔧 Tech Used |
-|:----------:|:--------------|:------------:|
-| 🤖 [Smart Multi-AI-Model](https://mutli-ai-model.lovable.app/) | A Multi Agentic AI System supporting Multimodal Vision and Multilingual capabilities | Lovable AI |
-| 🌐 [School Website]( https://kumbrideepa.github.io/my-school-website/) | Modern school management platform for students, teachers and parents | HTML, CSS |
-| 💼 [Portfolio Website](https://kumbrideepa.github.io/) | Personal portfolio showcasing skills, projects and achievements | HTML, CSS, JS |
-
-</div>
-
----
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kumbrideepa_color=0d0d1a&color=f093fb&line=f5576c&point=ffffff&area=true&hide_border=false&border_color=f093fb&radius=8" width="100%"/>
+### ⚡ ✦ TECH STACK ✦
 
 <br/>
 
-> 🌟 "Every commit is a step closer to becoming a great developer!" 🌟
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/deepa-kumbri-05047638b)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepakumbri19@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kumbrideepa)
+**━━━━━━━━━━ 💻 LANGUAGES ━━━━━━━━━━**
 
 <br/>
 
-### 💬 "Always learning. Always building. Always growing." ✨
+![Python](https://img.shields.io/badge/Python-0d0d2b?style=for-the-badge&logo=python&logoColor=00f5ff&labelColor=0d0d2b)
+![C](https://img.shields.io/badge/C_Program-0d0d2b?style=for-the-badge&logo=c&logoColor=00f5ff&labelColor=0d0d2b)
+![HTML5](https://img.shields.io/badge/HTML5-0d0d2b?style=for-the-badge&logo=html5&logoColor=bf5fff&labelColor=0d0d2b)
+![CSS3](https://img.shields.io/badge/CSS3-0d0d2b?style=for-the-badge&logo=css3&logoColor=bf5fff&labelColor=0d0d2b)
+
+<br/>
+
+**━━━━━━━━━━ 🤖 AI & ML ━━━━━━━━━━**
+
+<br/>
+
+![Pandas](https://img.shields.io/badge/Pandas-0d0d2b?style=for-the-badge&logo=pandas&logoColor=00f5ff&labelColor=0d0d2b)
+![NumPy](https://img.shields.io/badge/NumPy-0d0d2b?style=for-the-badge&logo=numpy&logoColor=bf5fff&labelColor=0d0d2b)
+![OpenAI](https://img.shields.io/badge/OpenAI_Tools-0d0d2b?style=for-the-badge&logo=openai&logoColor=00f5ff&labelColor=0d0d2b)
+
+<br/>
+
+**━━━━━━━━━━ 🔧 TOOLS ━━━━━━━━━━**
+
+<br/>
+
+![VS Code](https://img.shields.io/badge/VS_Code-0d0d2b?style=for-the-badge&logo=visual-studio-code&logoColor=00f5ff&labelColor=0d0d2b)
+![GitHub](https://img.shields.io/badge/GitHub-0d0d2b?style=for-the-badge&logo=github&logoColor=bf5fff&labelColor=0d0d2b)
+![Jupyter](https://img.shields.io/badge/Jupyter-0d0d2b?style=for-the-badge&logo=jupyter&logoColor=00f5ff&labelColor=0d0d2b)
+![Google Colab](https://img.shields.io/badge/Google_Colab-0d0d2b?style=for-the-badge&logo=google-colab&logoColor=bf5fff&labelColor=0d0d2b)
 
 </div>
 
@@ -138,8 +115,57 @@ Collaborations
 
 <div align="center">
 
-⭐ Enjoyed my profile? Drop a star on my repos — it means a lot! ⭐
+### 🚀 ✦ FEATURED PROJECTS ✦
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:f5576c,100:f093fb&height=120&section=footer" />
+<br/>
 
+| ✨ | 🏷️ Project | 📝 Description | 🔧 Tech |
+|:--:|:----------:|:--------------|:-------:|
+| 🤖 | [Smart Multi-AI-Model](https://mutli-ai-model.lovable.app/) | Multi Agentic AI System with Multimodal Vision & Multilingual support | Lovable AI |
+| 🌐 | [School Website](https://kumbrideepa.github.io/my-school-website/) | Modern school platform for students, teachers & parents | HTML, CSS |
+| 💼 | [Portfolio Website](https://kumbrideepa.github.io/) | Personal portfolio showcasing skills & achievements | HTML, CSS, JS |
+
+</div>
+---
+
+
+
+---
+
+<div align="center">
+
+### 🌐 ✦ CONNECT WITH ME ✦
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d2b?style=for-the-badge&logo=linkedin&logoColor=00f5ff)](http://www.linkedin.com/in/deepa-kumbri-05047638b)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-0d0d2b?style=for-the-badge&logo=gmail&logoColor=bf5fff)](mailto:deepakumbri19@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d2b?style=for-the-badge&logo=github&logoColor=00f5ff)](https://github.com/kumbrideepa)
+
+<br/><br/>
+
+![Wave](https://raw.githubusercontent.com/deepakumbri/pavithra656/main/assets/wave.gif)
+
+<br/>
+╔══════════════════════════════════════════════════╗
+
+║                                                  ║
+
+║   ✦ Always Learning  ✦ Always Building           ║
+
+║   ✦ Always Growing   ✦ Always Innovating ✦       ║
+
+║                                                  ║
+
+╚══════════════════════════════════════════════════╝
+⭐ **If you like my work — drop a star! It keeps me motivated!** ⭐
+
+</div>
+
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&text=Thanks+for+visiting!&fontSize=20&fontColor=00f5ff&animation=fadeIn&fontAlignY=65" />
 </div>
