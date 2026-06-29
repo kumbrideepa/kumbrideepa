@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=20&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=600&lines=⚡+Hello+World!+I'm+Deepa+K+M;🧠+AIML+Branch+Student;💻+Python+%7C+C+%7C+HTML+%7C+CSS;🤖+AI+%26+Machine+Learning+Enthusiast;🚀+Open+to+Internships+%26+AI+Projects;✨+Building+the+Future+with+AI)](https://kumbrideepa.github.io/)
 
-<br/>/
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=KumbriDeepa&color=00f5ff&style=for-the-badge&label=👁️+PROFILE+VIEWS" />
 &nbsp;
@@ -125,14 +125,7 @@
 | 🌐 | [School Website](https://kumbrideepa.github.io/my-school-website/) | Modern school platform for students, teachers & parents | HTML, CSS |
 | 💼 | [Portfolio Website](https://kumbrideepa.github.io/) | Personal portfolio showcasing skills & achievements | HTML, CSS, JS |
 
-</div>
----
 
-
-
----
-
-<div align="center">
 
 ### 🌐 ✦ CONNECT WITH ME ✦
 
@@ -149,17 +142,10 @@
 ![Wave](https://raw.githubusercontent.com/deepakumbri/pavithra656/main/assets/wave.gif)
 
 <br/>
-╔══════════════════════════════════════════════════╗
+ ✦ Always Learning  ✦ Always Building          
 
-║                                                  ║
+ ✦ Always Growing   ✦ Always Innovating    
 
-║   ✦ Always Learning  ✦ Always Building           ║
-
-║   ✦ Always Growing   ✦ Always Innovating ✦       ║
-
-║                                                  ║
-
-╚══════════════════════════════════════════════════╝
 ⭐ **If you like my work — drop a star! It keeps me motivated!** ⭐
 
 </div>
